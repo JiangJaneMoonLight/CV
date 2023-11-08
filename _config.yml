@@ -94,7 +94,6 @@ content:
             - Creating and maintaining test documentation on Conluence, including test plans, test cases, and test reports
             - Participating in Agile development processes, including sprint planning, weekly meeting, and retrospectives
 
-  content:
       - layout: left
         title: Huawei Technologies Co., Ltd.
         link: https://www.huawei.com
@@ -107,13 +106,10 @@ content:
         description: | # this will include new lines to allow paragraphs
             As a compiler test engineer in 2012 Laboratory Department, I am responsible for testing the compiler. My responsibilities includes:
 
-            - Participating in compiler design reviewed to provide input on functional requirements, product designs,
-schedules and potential problems
+            - Participating in compiler design reviewed to provide input on functional requirements, product designs, schedules and potential problems
             - Conducting test analysis, test implementation, and test execution of the compiler in development
-            - Developing a test tool (using python and shell) which could generate test cases automatically for compiler
-instruction test
-            - Developing a test result analysis tool (using python and shell) which summarize the types of failures after
-execution
+            - Developing a test tool (using python and shell) which could generate test cases automatically for compiler instruction test
+            - Developing a test result analysis tool (using python and shell) which summarize the types of failures after execution
             - Collaborating with developers to evaluate and diagnose problems and recommended possible solutions
             - Using bug tracking system and report defects to software developers
             - Writing training material and conducted training sessions on software testing activities
